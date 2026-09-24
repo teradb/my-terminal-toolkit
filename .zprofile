@@ -16,3 +16,5 @@ alias b='pmset -g batt'
 alias c='python3 ~/.scripts/cleaner.py'
 
 alias p='python3 ~/.scripts/password.py'
+alias r='python3 ~/.scripts/reader.py'
+alias l='python3 ~/.scripts/syslog.py'
